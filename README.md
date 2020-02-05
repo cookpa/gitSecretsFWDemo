@@ -36,4 +36,9 @@ We could make this more specific if there are many false positives.
 git secrets --scan dummyKey.txt 
 ```
 
+## Scanning on commit
+
+Try editing `dummyKey.txt` and then adding and committing. You should see an 
+error because the file  matches a secret pattern.
+
 
