@@ -1,3 +1,4 @@
 Log in to flywheel with this:
 
-fw login upenn.flywheel.io:a72Halbjs5i9lahSEd
+# This is not a real key
+fw login upenn.flywheel.io:a72Halbjs5i9lahSEd # fake key for testing
